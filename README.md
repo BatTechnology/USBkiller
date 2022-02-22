@@ -4,7 +4,7 @@ At run time, a large number of files are automatically added to storage continuo
 > This item needs to be modified according to your personal situation.See [below](#Start) for details.
 
 ## Start
-Enter usbkiller Bat, change e: / in the third line to the target drive letter of the device you need.
+Enter usbkiller Bat, change `E:/` in the third line to the target drive letter of the device you need.
 
 ## Project structure
 
